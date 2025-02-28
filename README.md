@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm a back end engineer with a passion for building scalable, efficient and secure systems. My expertise lies in designing and developing distributed systems microservices and APIs that power modern applications. I have a strong foundation in computer science principles including data structures, algorithms and system architecture.
 
 <!--
 **ethcracker/ethcracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
